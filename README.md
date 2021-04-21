@@ -1,6 +1,7 @@
 # GeyserWorx-Monitoring
 
 This app can be run from Node-Red Desktop for monitoring and basic control of a GeyserWorx (www.geyserworx.co.za) water heater control system.
+https://nodered.org/
 https://sakazuki.github.io/node-red-desktop/
 
 ## Basic functionality include:
