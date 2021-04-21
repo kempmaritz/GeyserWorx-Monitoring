@@ -27,9 +27,9 @@ node-red-node-sentiment
 - Deploy the solution.
 - Navigate to Dashboard and fill out settings required from the Configuration page.
 - These include:
--   IP Address of the GeyserWorx unit on your network.
--   Wifi Serial number located on the bottom left side of the GeyserWorx unit.
--   Hot water heater vesel heating element size. (kW)
--   Utility power rate per unit.
+  - IP Address of the GeyserWorx unit on your network.
+  - Wifi Serial number located on the bottom left side of the GeyserWorx unit.
+  - Hot water heater vesel heating element size. (kW)
+  - Utility power rate per unit.
 - Click submit
 
