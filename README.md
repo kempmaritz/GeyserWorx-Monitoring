@@ -21,6 +21,14 @@ Nodes exclude:
 node-red-node-sentiment
 
 ## Usage
-Import settings.js settings into your existing settings.js file to enable persistent storage context.
-Open GeyserWorx.json.
-Deploy the solution.
+- Import settings.js settings into your existing settings.js file to enable persistent storage context.
+- Open GeyserWorx.json.
+- Deploy the solution.
+- Navigate to Dashboard and fill out settings required from the Configuration page.
+- These include:
+-   IP Address of the GeyserWorx unit on your network.
+-   Wifi Serial number located on the bottom left side of the GeyserWorx unit.
+-   Hot water heater vesel heating element size. (kW)
+-   Utility power rate per unit.
+- Click submit
+
