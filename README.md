@@ -15,3 +15,12 @@ https://sakazuki.github.io/node-red-desktop/
 - Timers setting (Enables when GeyserWorx is allowed to heat the water from AC power.)
 - Basic 1 day graph of heating performance
 
+## Node-Red Desktop Settings
+Nodes exclude:
+32-udp.js
+node-red-node-sentiment
+
+## Usage
+Import settings.js settings into your existing settings.js file to enable persistent storage context.
+Open GeyserWorx.json.
+Deploy the solution.
