@@ -24,6 +24,10 @@ node-red-node-sentiment
 
 ## Usage
 - Import settings.js settings into your existing settings.js file to enable persistent storage context.
+- Install the following nodes required for this configuration:
+  - node-red-contrib-deduplicate-adv
+  - node-red-contrib-mqtt-dynamicsub
+  - node-red-dashboard
 - Open GeyserWorx.json.
 - Deploy the solution.
 - Navigate to Dashboard and fill out settings required from the Configuration page.
